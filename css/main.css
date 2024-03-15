@@ -4272,14 +4272,14 @@ em.state-invalid {
 }
 
 .btn.btn-primary {
-	background: #5645ff;
-	border-color: #5645ff;
-	color: #fff;
+	background: #b4975a;
+	border-color: #b4975a;
+	color: black;
 }
 
 .btn.btn-primary:hover {
-	background: #2812ff;
-	border-color: #2812ff;
+	background: #fff;
+	border-color: b4975a;
 }
 
 .btn.btn-secondary {
@@ -4314,8 +4314,8 @@ em.state-invalid {
 }
 
 .btn.btn-black {
-	background: #000;
-	border: .1429rem solid #000;
+	background: #b4975a;
+	border: .1429rem solid #b4975a;
 	color: #fff;
 }
 
